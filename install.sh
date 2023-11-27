@@ -3,7 +3,7 @@
 #source activate SAA
 
 # PyTorch
-#pip3 install torch==1.10.0+cu113 torchvision==0.11.1+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html
+pip3 install torch==1.10.0+cu113 torchvision==0.11.1+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html
 
 # $ProjectRoot: the root you save our project, e.g., /home/anyad/VAND-solution
 ProjectRoot=/home/sagemaker-user/Segment-Any-Anomaly
