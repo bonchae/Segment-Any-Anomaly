@@ -1,6 +1,6 @@
 # create new conda env
-#conda create -n SAA python=3.9
-#source activate SAA
+conda create -n SAA python=3.9
+source activate SAA
 
 # PyTorch
 pip3 install torch==1.10.0+cu113 torchvision==0.11.1+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html
